@@ -87,6 +87,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=josriver&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=josriver&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Trabaja en ....
+![](./profile-3d-contrib/profile-season-animate.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=josriver&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
