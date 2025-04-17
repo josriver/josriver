@@ -1,6 +1,13 @@
 # 💫 About Me:
-<p style="text-align: justify;">
+<!--<p style="text-align: justify;">
 ¡Hola! Soy un profesional en calidad de software junior con un fuerte trasfondo en infraestructura de servidores. A lo largo de mi carrera, he trabajado en optimización y gestión de sistemas, pero mi verdadera pasión es la programación. Actualmente, me encuentro en una etapa de transición, desarrollándome como programador junior y con muchas ganas de aprender, mejorar y aportar a proyectos innovadores.<br><br>Mi experiencia en infraestructura me ha brindado una visión única sobre la estabilidad y la eficiencia de los sistemas, y ahora estoy enfocando esa perspectiva en crear código de calidad, bien estructurado y escalable. Me motiva el desafío de resolver problemas complejos y aprender nuevas tecnologías. Estoy constantemente explorando nuevas herramientas, lenguajes y metodologías para estar siempre a la vanguardia.<br><br>Si buscas a alguien comprometido, con una sólida ética de trabajo, ¡estoy aquí para colaborar!
+</p> -->
+<p style="text-align: justify;">
+Hello! I’m a junior software quality professional with a strong background in server infrastructure. Throughout my career, I’ve worked on system optimization and management, but my true passion lies in programming. Currently, I’m in a transition phase, developing as a junior programmer with a strong desire to learn, improve, and contribute to innovative projects.
+<br><br>
+My experience in infrastructure has given me a unique perspective on system stability and efficiency, and now I’m focusing that viewpoint on creating quality, well-structured, and scalable code. I’m motivated by the challenge of solving complex problems and learning new technologies. I’m constantly exploring new tools, languages, and methodologies to stay at the forefront.
+<br><br>
+If you’re looking for someone committed with a strong work ethic, I’m here to collaborate!
 </p>
 
 ## Education:
@@ -8,69 +15,68 @@
 <img align="right" src="https://img.shields.io/badge/Universidad_de_El_Alto-BO-red" />
                                                                                                       
 - **Master en Inteligencia Artificial, Mechine Learning y Data Science**\
-2025 \
+2025 
 <!-- 📍 **Universidad Publica de El Alto** - El Alto, Bolivia -->
 
 <img align="right" src="https://img.shields.io/badge/Universidad_Mayor_de_San_Andres-BO-blue" />
                                                                                                       
 - **Master Software Libre y Estandares Abiertos**\
-2013 - 2014\
+2013 - 2014
 <!--📍 **Universidad de Mayor de San Andres** - La Paz, Bolivia -->
 
 <img align="right" src="https://img.shields.io/badge/Universidad_Del_Valle-BO-red" />
                                                                                                       
 - **Diplomado en Seguridad Informatica**\
-2017\
+2017
 <!-- 📍 **Universidad del Valle** - Cochabmaba, Bolivia -->
 
 <img align="right" src="https://img.shields.io/badge/Universidad_Mayor_de_San_Andres-BO-blue" />
                                                                                                       
 - **Diplomado en Open Source Software**\
-2014\
+2014
 <!-- 📍 **Universidad de Mayor de San Andres** - La Paz, Bolivia -->
 
 <img align="right" src="https://img.shields.io/badge/Universidad_Mayor_de_San_Andres-BO-blue" />
                                                                                                       
 - **Diplomado en Desarrollo en Software Libre**\
-2014\
+2014
 <!-- 📍 **Universidad de Mayor de San Andres** - La Paz, Bolivia -->
 
 <img align="right" src="https://img.shields.io/badge/Universidad_Mayor_de_San_Andres-BO-blue" />
 
 - **Licenciado en Informatica**\
-2010\
+2010
 <!-- 📍 **Universidad de Mayor de San Andres** - La Paz, Bolivia -->
 ## Work Experience:
 
 <img align="right" src="https://img.shields.io/badge/Government_Agency-BO-green" />
                                                                                                       
 - **Quality Assurance (QA)**\
-2025 \
+2025 
 
 <img align="right" src="https://img.shields.io/badge/Productive_Companies-BO-green" />
                                                                                                       
 - **Networking and Telecommunications**\
-2023 - 2024\
-
+2023 - 2024
 <img align="right" src="https://img.shields.io/badge/Public_Administration-BO-green" />
                                                                                                       
 - **Data Center and Infrastructure Manager**\
-2021 - 2022\
+2021 - 2022
 
 <img align="right" src="https://img.shields.io/badge/Public_Administration-BO-green" />
                                                                                                       
 - **Server Infrastructure Manager**\
-2019 - 2020\
+2019 - 2020
 
 <img align="right" src="https://img.shields.io/badge/Public_Administration-BO-green" />
                                                                                                       
 - **Network and Telecommunications Manager**\
-2016 - 2018\
+2016 - 2018
 
 <img align="right" src="https://img.shields.io/badge/Public_Administration-BO-green" />
 
 - **System Technical Support**\
-2012 - 2015\
+2012 - 2015
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/josriver) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josriver.b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/josriver.b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@josriver.b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josriver.mre@gmail.com) 
 
